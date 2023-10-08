@@ -1,4 +1,4 @@
-# JavaCalculator
+# JavaCalculator 📚✖️➕➗🔢
 Simple Calculator Using NetBeans IDE And Javax Swing 
 # Screenshots
 ![While The Calculator Is ON](https://github.com/ayushthepro111/JavaCalculator/assets/103628088/348a6b5b-2cfa-4451-9cb5-a149487e7846)
