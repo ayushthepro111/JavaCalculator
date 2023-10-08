@@ -7,6 +7,7 @@ Simple Calculator Using NetBeans IDE And Javax Swing
 
 ![The Current Arthematic Operation Ongoing](https://github.com/ayushthepro111/JavaCalculator/assets/103628088/b1a52ed5-1395-42f0-81ba-579c92f1c957)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
