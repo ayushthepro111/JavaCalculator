@@ -8,15 +8,3 @@ Simple Calculator Using NetBeans IDE And Javax Swing
 ![The Current Arthematic Operation Ongoing](https://github.com/ayushthepro111/JavaCalculator/assets/103628088/b1a52ed5-1395-42f0-81ba-579c92f1c957)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
