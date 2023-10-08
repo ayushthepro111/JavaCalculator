@@ -8,7 +8,7 @@ Simple Calculator Using NetBeans IDE And Javax Swing
 ![The Current Arthematic Operation Ongoing](https://github.com/ayushthepro111/JavaCalculator/assets/103628088/b1a52ed5-1395-42f0-81ba-579c92f1c957)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # java code
-```
+``` java
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
