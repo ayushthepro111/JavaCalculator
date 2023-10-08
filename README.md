@@ -582,5 +582,5 @@ public class Calculator extends javax.swing.JFrame {
 }
 ```
 - [x] Calculator released
-- [ ] Update the website [website](https://ayushmangupta69.wixsite.com/ayushman-gupta)
+- [ ] Update the website [🌐Website🌐](https://ayushmangupta69.wixsite.com/ayushman-gupta)
 - [x] Make Executable and Compiled
