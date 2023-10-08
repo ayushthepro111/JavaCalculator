@@ -581,3 +581,6 @@ public class Calculator extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 }
 ```
+- [x] Calculator released
+- [ ] Update the website [website](https://ayushmangupta69.wixsite.com/ayushman-gupta)
+- [x] Make Executable and Compiled
