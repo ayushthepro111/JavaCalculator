@@ -17,7 +17,7 @@ package com.ayushthepro11.calculator;
 
 /**
  *
- * @author 91725
+ * @author AyushThePro111
  */
 public class Calculator extends javax.swing.JFrame {
 
